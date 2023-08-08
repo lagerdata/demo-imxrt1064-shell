@@ -1,0 +1,2101 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+                              CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj (atoi)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+                              CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj (__errno)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+                              CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj (malloc)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+                              CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj (memcpy)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+                              CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj (memmove)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o) (_free_r)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+                              CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj (strcmp)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+                              CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj (strlen)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o) (_strtol_r)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+                              CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj (strtoul)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o) (_ctype_)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o) (errno)
+/usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj (__aeabi_uldivmod)
+/usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+                              /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crti.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .text.BOARD_InitBootPins
+                0x0000000000000000        0xc CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .rodata.usb1PllConfig_BOARD_BootClockRUN
+                0x0000000000000000        0x2 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .rodata.videoPllConfig_BOARD_BootClockRUN
+                0x0000000000000000       0x10 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .rodata.dcd_data
+                0x0000000000000000        0x1 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .debug_info    0x0000000000000000       0x9d CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .debug_abbrev  0x0000000000000000       0x61 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .debug_line    0x0000000000000000       0x82 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .debug_str     0x0000000000000000      0x1ee CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .comment       0x0000000000000000       0x5a CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x37 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_UnregisterCommand
+                0x0000000000000000       0x4c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_ChangePrompt
+                0x0000000000000000       0x5c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .rodata.__func__.11881
+                0x0000000000000000       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .rodata.__func__.11912
+                0x0000000000000000       0x13 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.ScanIsWhiteSpace
+                0x0000000000000000       0x44 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.ScanIgnoreWhiteSpace
+                0x0000000000000000       0x46 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanIsFormatStarting
+                0x0000000000000000       0x36 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanGetBase
+                0x0000000000000000       0x4c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanCheckSymbol
+                0x0000000000000000       0x48 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanFillInteger
+                0x0000000000000000       0x46 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanfStringHandling
+                0x0000000000000000      0x18a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.StrFormatScanf
+                0x0000000000000000      0x2e6 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_ReadOneCharacter
+                0x0000000000000000       0x16 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_SendData
+                0x0000000000000000       0x40 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_ReadLine
+                0x0000000000000000       0xa8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_ReadCharacter
+                0x0000000000000000       0x44 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_EnterLowpower
+                0x0000000000000000       0x30 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_ExitLowpower
+                0x0000000000000000       0x30 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Deinit
+                0x0000000000000000       0x48 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Flush
+                0x0000000000000000       0x10 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Putchar
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Scanf
+                0x0000000000000000       0x48 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_BlockingPrintf
+                0x0000000000000000       0x94 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text.DbgConsole_Getchar
+                0x0000000000000000       0x2c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_Deinit
+                0x0000000000000000       0x5a CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_EnterLowpower
+                0x0000000000000000       0x3c CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_ExitLowpower
+                0x0000000000000000       0x3c CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text.Serial_UartDeinit
+                0x0000000000000000       0x24 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text.Serial_UartEnterLowpower
+                0x0000000000000000       0x2e CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text.Serial_UartExitLowpower
+                0x0000000000000000       0x32 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.__NVIC_EnableIRQ
+                0x0000000000000000       0x3c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.CLOCK_DisableClock
+                0x0000000000000000       0x1e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.EnableIRQ
+                0x0000000000000000       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.s_lpuartIRQ
+                0x0000000000000000       0x12 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferGetRxRingBufferLength
+                0x0000000000000000       0x64 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferIsRxRingBufferFull
+                0x0000000000000000       0x50 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_WriteNonBlocking
+                0x0000000000000000       0x58 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_ReadNonBlocking
+                0x0000000000000000       0xa8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_Deinit
+                0x0000000000000000       0x70 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_SetBaudRate
+                0x0000000000000000      0x164 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_Enable9bitMode
+                0x0000000000000000       0x7c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_SendAddress
+                0x0000000000000000       0x54 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_EnableInterrupts
+                0x0000000000000000       0x52 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_DisableInterrupts
+                0x0000000000000000       0x58 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_GetEnabledInterrupts
+                0x0000000000000000       0x44 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferCreateHandle
+                0x0000000000000000       0xd0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferStartRingBuffer
+                0x0000000000000000       0x70 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferStopRingBuffer
+                0x0000000000000000       0x60 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferSendNonBlocking
+                0x0000000000000000       0xc4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferAbortSend
+                0x0000000000000000       0x4c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferGetSendCount
+                0x0000000000000000       0x84 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferReceiveNonBlocking
+                0x0000000000000000      0x1c0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferAbortReceive
+                0x0000000000000000       0x54 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferGetReceiveCount
+                0x0000000000000000       0x78 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferHandleIRQ
+                0x0000000000000000      0x3c8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_TransferHandleErrorIRQ
+                0x0000000000000000       0x16 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10872
+                0x0000000000000000       0x25 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10881
+                0x0000000000000000       0x22 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10888
+                0x0000000000000000       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10898
+                0x0000000000000000       0x17 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10944
+                0x0000000000000000       0x13 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10962
+                0x0000000000000000       0x16 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10968
+                0x0000000000000000       0x13 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11032
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11042
+                0x0000000000000000       0x1f CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11047
+                0x0000000000000000       0x1e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11053
+                0x0000000000000000       0x1f CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11059
+                0x0000000000000000       0x19 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11065
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11074
+                0x0000000000000000       0x22 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11087
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11093
+                0x0000000000000000       0x1f CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.11100
+                0x0000000000000000       0x19 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .text.SDK_Malloc
+                0x0000000000000000       0x92 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .text.SDK_Free
+                0x0000000000000000       0x3a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .text.DelayLoop
+                0x0000000000000000       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .rodata        0x0000000000000000       0x54 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .text.SDK_DelayAtLeastUs
+                0x0000000000000000       0xb0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .rodata.__func__.10609
+                0x0000000000000000       0x13 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .debug_info    0x0000000000000000      0xb52 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .debug_abbrev  0x0000000000000000      0x28c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .debug_aranges
+                0x0000000000000000       0x38 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .debug_ranges  0x0000000000000000       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .debug_line    0x0000000000000000      0x235 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .debug_str     0x0000000000000000      0x71b CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .comment       0x0000000000000000       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .debug_frame   0x0000000000000000       0xac CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetRtcFreq
+                0x0000000000000000       0x12 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetPeriphClkFreq
+                0x0000000000000000       0xec CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetPllUsb1SWFreq
+                0x0000000000000000       0x44 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitExternalClk
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitRcOsc24M
+                0x0000000000000000       0x24 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetAhbFreq
+                0x0000000000000000       0x24 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetSemcFreq
+                0x0000000000000000       0x5c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetIpgFreq
+                0x0000000000000000       0x24 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetPerClkFreq
+                0x0000000000000000       0x40 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetFreq
+                0x0000000000000000      0x1c8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetClockRootFreq
+                0x0000000000000000      0x1ac CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_EnableUsbhs0Clock
+                0x0000000000000000       0x7c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_EnableUsbhs1Clock
+                0x0000000000000000       0x80 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_EnableUsbhs0PhyPllClock
+                0x0000000000000000       0x70 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DisableUsbhs0PhyPllClock
+                0x0000000000000000       0x30 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitArmPll
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPll
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitUsb1Pll
+                0x0000000000000000       0x68 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitUsb1Pll
+                0x0000000000000000       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitUsb2Pll
+                0x0000000000000000       0x68 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitAudioPll
+                0x0000000000000000      0x12c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitVideoPll
+                0x0000000000000000      0x134 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitVideoPll
+                0x0000000000000000       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitEnetPll
+                0x0000000000000000       0xb0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitSysPfd
+                0x0000000000000000       0x34 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_InitUsb1Pfd
+                0x0000000000000000       0x64 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DeinitUsb1Pfd
+                0x0000000000000000       0x34 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetSysPfdFreq
+                0x0000000000000000       0xac CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetUsb1PfdFreq
+                0x0000000000000000       0xac CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_EnableUsbhs1PhyPllClock
+                0x0000000000000000       0x54 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_DisableUsbhs1PhyPllClock
+                0x0000000000000000       0x30 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_SetClockOutput1
+                0x0000000000000000       0x64 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_SetClockOutput2
+                0x0000000000000000       0x64 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetClockOutCLKO1Freq
+                0x0000000000000000      0x10c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetClockOutClkO2Freq
+                0x0000000000000000      0x13c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .rodata.__func__.10692
+                0x0000000000000000       0x17 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .text.HAL_UartDeinit
+                0x0000000000000000       0x4c CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .text.HAL_UartEnterLowpower
+                0x0000000000000000       0x34 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .text.HAL_UartExitLowpower
+                0x0000000000000000       0x16 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .rodata.__func__.10913
+                0x0000000000000000        0xf CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .rodata.__func__.10932
+                0x0000000000000000       0x16 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_Init
+                0x0000000000000000       0x30 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetList
+                0x0000000000000000       0x18 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddHead
+                0x0000000000000000       0x64 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveHead
+                0x0000000000000000       0x60 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetPrev
+                0x0000000000000000       0x16 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_RemoveElement
+                0x0000000000000000       0x86 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddPrevElement
+                0x0000000000000000       0xa6 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetSize
+                0x0000000000000000       0x18 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_GetAvailableSize
+                0x0000000000000000       0x20 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x20c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .text.CLOCK_ControlGate
+                0x0000000000000000       0x74 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .text.CLOCK_EnableClock
+                0x0000000000000000       0x1e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .text.GPIO_SetPinInterruptConfig
+                0x0000000000000000       0x22 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .rodata.s_gpioBases
+                0x0000000000000000       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .rodata.s_gpioClock
+                0x0000000000000000        0xc CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .text.GPIO_GetInstance
+                0x0000000000000000       0x58 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .text.GPIO_PinInit
+                0x0000000000000000       0xa4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .text.GPIO_PinSetInterruptConfig
+                0x0000000000000000       0xfc CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .rodata.__func__.10697
+                0x0000000000000000       0x11 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .rodata.__func__.10417
+                0x0000000000000000       0x12 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .text          0x0000000000000000      0x174 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_info    0x0000000000000000     0x11df /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_abbrev  0x0000000000000000      0x2a6 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_loc     0x0000000000000000      0x554 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_line    0x0000000000000000      0x379 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_str     0x0000000000000000      0x9a5 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .comment       0x0000000000000000       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .debug_frame   0x0000000000000000       0x7c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtoul.o)
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000       0xe8 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x0000000000000000       0x60 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x0000000000000000       0xa3 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x0000000000000000      0x2c4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_info    0x0000000000000000      0xd7c /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x0000000000000000      0x1c2 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_loc     0x0000000000000000      0xfa2 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_ranges  0x0000000000000000       0xc8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_line    0x0000000000000000      0x61a /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_str     0x0000000000000000     0x11e9 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .comment       0x0000000000000000       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_udivmoddi4.o)
+ .text          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0000000000000000       0x60 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x0000000000000000       0xa7 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+m_flash_config   0x0000000070000000 0x0000000000001000 xr
+m_ivt            0x0000000070001000 0x0000000000001000 xr
+m_interrupts     0x0000000070002000 0x0000000000000400 xr
+m_text           0x0000000070002400 0x00000000003fdc00 xr
+m_data           0x0000000020000000 0x0000000000020000 rw
+m_data2          0x0000000020200000 0x00000000000c0000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+LOAD CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+LOAD CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libg_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtn.o
+                0x0000000000000400                HEAP_SIZE = DEFINED (__heap_size__)?__heap_size__:0x400
+                0x0000000000000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+                0x0000000000000000                VECTOR_RAM_SIZE = DEFINED (__ram_vector_table__)?0x400:0x0
+                0x0000000020200000                __NCACHE_REGION_START = ORIGIN (m_data2)
+                0x0000000000000000                __NCACHE_REGION_SIZE = 0x0
+
+.flash_config   0x0000000070000000      0x200
+                0x0000000070000000                . = ALIGN (0x4)
+                0x0000000070000000                __FLASH_BASE = .
+ *(.boot_hdr.conf)
+ .boot_hdr.conf
+                0x0000000070000000      0x200 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+                0x0000000070000000                qspiflash_config
+                0x0000000070000200                . = ALIGN (0x4)
+                0x0000000070001000                ivt_begin = (ORIGIN (m_flash_config) + LENGTH (m_flash_config))
+
+.ivt            0x0000000070001000       0x30
+                0x0000000070001000                . = ALIGN (0x4)
+ *(.boot_hdr.ivt)
+ .boot_hdr.ivt  0x0000000070001000       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+                0x0000000070001000                image_vector_table
+ *(.boot_hdr.boot_data)
+ .boot_hdr.boot_data
+                0x0000000070001020       0x10 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+                0x0000000070001020                boot_data
+ *(.boot_hdr.dcd_data)
+                0x0000000070001030                . = ALIGN (0x4)
+
+.interrupts     0x0000000070002000      0x400
+                0x0000000070002000                __VECTOR_TABLE = .
+                0x0000000070002000                __Vectors = .
+                0x0000000070002000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000070002000      0x400 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+                0x0000000070002000                __isr_vector
+                0x0000000070002400                . = ALIGN (0x4)
+
+.text           0x0000000070002400     0x61cc
+                0x0000000070002400                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000070002400       0x88 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .text          0x0000000070002488       0x70 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+                0x0000000070002488                _stack_init
+                0x0000000070002490                _mainCRTStartup
+                0x0000000070002490                _start
+ .text          0x00000000700024f8      0x258 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+                0x00000000700024f8                Reset_Handler
+                0x0000000070002584                USB_PHY1_IRQHandler
+                0x0000000070002584                FLEXSPI2_DriverIRQHandler
+                0x0000000070002584                LPSPI2_DriverIRQHandler
+                0x0000000070002584                SJC_IRQHandler
+                0x0000000070002584                ADC_ETC_IRQ0_IRQHandler
+                0x0000000070002584                DebugMon_Handler
+                0x0000000070002584                SAI3_RX_DriverIRQHandler
+                0x0000000070002584                PXP_IRQHandler
+                0x0000000070002584                DMA13_DMA29_DriverIRQHandler
+                0x0000000070002584                Reserved86_IRQHandler
+                0x0000000070002584                SRC_IRQHandler
+                0x0000000070002584                LPSPI4_DriverIRQHandler
+                0x0000000070002584                GPIO2_Combined_0_15_IRQHandler
+                0x0000000070002584                SPDIF_DriverIRQHandler
+                0x0000000070002584                GPIO1_INT2_IRQHandler
+                0x0000000070002584                CSI_IRQHandler
+                0x0000000070002584                ENET2_DriverIRQHandler
+                0x0000000070002584                SNVS_LP_WRAPPER_IRQHandler
+                0x0000000070002584                ENC2_IRQHandler
+                0x0000000070002584                PWM2_2_IRQHandler
+                0x0000000070002584                PWM4_FAULT_IRQHandler
+                0x0000000070002584                GPIO1_INT7_IRQHandler
+                0x0000000070002584                CCM_1_IRQHandler
+                0x0000000070002584                CAN3_DriverIRQHandler
+                0x0000000070002584                ADC_ETC_IRQ1_IRQHandler
+                0x0000000070002584                DMA7_DMA23_DriverIRQHandler
+                0x0000000070002584                CTI0_ERROR_IRQHandler
+                0x0000000070002584                GPIO5_Combined_0_15_IRQHandler
+                0x0000000070002584                PWM1_0_IRQHandler
+                0x0000000070002584                Reserved68_IRQHandler
+                0x0000000070002584                LPI2C3_DriverIRQHandler
+                0x0000000070002584                USB_PHY2_IRQHandler
+                0x0000000070002584                TSC_DIG_IRQHandler
+                0x0000000070002584                GPIO4_Combined_0_15_IRQHandler
+                0x0000000070002584                PWM2_0_IRQHandler
+                0x0000000070002584                DCP_VMI_IRQHandler
+                0x0000000070002584                DMA14_DMA30_DriverIRQHandler
+                0x0000000070002584                ENET_1588_Timer_DriverIRQHandler
+                0x0000000070002584                PWM2_1_IRQHandler
+                0x0000000070002584                PWM2_FAULT_IRQHandler
+                0x0000000070002584                FLEXIO2_DriverIRQHandler
+                0x0000000070002584                UsageFault_Handler
+                0x0000000070002584                WDOG1_IRQHandler
+                0x0000000070002584                PMU_EVENT_IRQHandler
+                0x0000000070002584                GPT1_IRQHandler
+                0x0000000070002584                PWM4_1_IRQHandler
+                0x0000000070002584                USB_OTG2_IRQHandler
+                0x0000000070002584                ACMP4_IRQHandler
+                0x0000000070002584                SEMC_IRQHandler
+                0x0000000070002584                DMA0_DMA16_DriverIRQHandler
+                0x0000000070002584                DefaultISR
+                0x0000000070002584                PWM1_1_IRQHandler
+                0x0000000070002584                DMA2_DMA18_DriverIRQHandler
+                0x0000000070002584                PWM3_0_IRQHandler
+                0x0000000070002584                USDHC1_DriverIRQHandler
+                0x0000000070002584                PWM3_3_IRQHandler
+                0x0000000070002584                GPIO1_INT0_IRQHandler
+                0x0000000070002584                CSU_IRQHandler
+                0x0000000070002584                ADC1_IRQHandler
+                0x0000000070002584                FLEXIO1_DriverIRQHandler
+                0x0000000070002584                ENET_DriverIRQHandler
+                0x0000000070002584                GPIO1_Combined_16_31_IRQHandler
+                0x0000000070002584                RTWDOG_IRQHandler
+                0x0000000070002584                Reserved78_IRQHandler
+                0x0000000070002584                SAI1_DriverIRQHandler
+                0x0000000070002584                DMA12_DMA28_DriverIRQHandler
+                0x0000000070002584                ENC3_IRQHandler
+                0x0000000070002584                GPIO3_Combined_16_31_IRQHandler
+                0x0000000070002584                EWM_IRQHandler
+                0x0000000070002584                TEMP_LOW_HIGH_IRQHandler
+                0x0000000070002584                WDOG2_IRQHandler
+                0x0000000070002584                GPIO1_INT5_IRQHandler
+                0x0000000070002584                FLEXSPI_DriverIRQHandler
+                0x0000000070002584                PWM3_1_IRQHandler
+                0x0000000070002584                PWM2_3_IRQHandler
+                0x0000000070002584                CORE_IRQHandler
+                0x0000000070002584                DMA10_DMA26_DriverIRQHandler
+                0x0000000070002584                TEMP_PANIC_IRQHandler
+                0x0000000070002584                GPIO1_INT6_IRQHandler
+                0x0000000070002584                PWM1_2_IRQHandler
+                0x0000000070002584                Reserved144_IRQHandler
+                0x0000000070002584                GPR_IRQ_IRQHandler
+                0x0000000070002584                GPC_IRQHandler
+                0x0000000070002584                DCDC_IRQHandler
+                0x0000000070002584                GPIO3_Combined_0_15_IRQHandler
+                0x0000000070002584                PWM4_3_IRQHandler
+                0x0000000070002584                DMA1_DMA17_DriverIRQHandler
+                0x0000000070002584                USB_OTG1_IRQHandler
+                0x0000000070002584                CAN2_DriverIRQHandler
+                0x0000000070002584                GPIO5_Combined_16_31_IRQHandler
+                0x0000000070002584                TMR2_IRQHandler
+                0x0000000070002584                ADC_ETC_ERROR_IRQ_IRQHandler
+                0x0000000070002584                DMA8_DMA24_DriverIRQHandler
+                0x0000000070002584                PWM4_2_IRQHandler
+                0x0000000070002584                DMA6_DMA22_DriverIRQHandler
+                0x0000000070002584                BEE_IRQHandler
+                0x0000000070002584                GPIO1_INT1_IRQHandler
+                0x0000000070002584                ADC_ETC_IRQ2_IRQHandler
+                0x0000000070002584                GPIO1_INT4_IRQHandler
+                0x0000000070002584                CCM_2_IRQHandler
+                0x0000000070002584                KPP_IRQHandler
+                0x0000000070002584                ADC2_IRQHandler
+                0x0000000070002584                USDHC2_DriverIRQHandler
+                0x0000000070002584                MemManage_Handler
+                0x0000000070002584                SAI2_DriverIRQHandler
+                0x0000000070002584                PIT_IRQHandler
+                0x0000000070002584                Reserved115_IRQHandler
+                0x0000000070002584                SNVS_HP_WRAPPER_IRQHandler
+                0x0000000070002584                DMA11_DMA27_DriverIRQHandler
+                0x0000000070002584                XBAR1_IRQ_2_3_IRQHandler
+                0x0000000070002584                PWM3_2_IRQHandler
+                0x0000000070002584                LPI2C1_DriverIRQHandler
+                0x0000000070002584                DCP_IRQHandler
+                0x0000000070002584                ENET2_1588_Timer_DriverIRQHandler
+                0x0000000070002584                Reserved171_IRQHandler
+                0x0000000070002584                DMA4_DMA20_DriverIRQHandler
+                0x0000000070002584                GPIO1_INT3_IRQHandler
+                0x0000000070002584                DMA9_DMA25_DriverIRQHandler
+                0x0000000070002584                GPIO1_Combined_0_15_IRQHandler
+                0x0000000070002584                LPSPI1_DriverIRQHandler
+                0x0000000070002584                DMA3_DMA19_DriverIRQHandler
+                0x0000000070002584                TMR4_IRQHandler
+                0x0000000070002584                ACMP3_IRQHandler
+                0x0000000070002584                ENC1_IRQHandler
+                0x0000000070002584                PWM1_FAULT_IRQHandler
+                0x0000000070002584                Reserved143_IRQHandler
+                0x0000000070002584                GPIO6_7_8_9_IRQHandler
+                0x0000000070002584                GPIO2_Combined_16_31_IRQHandler
+                0x0000000070002584                LPI2C4_DriverIRQHandler
+                0x0000000070002584                TMR3_IRQHandler
+                0x0000000070002584                XBAR1_IRQ_0_1_IRQHandler
+                0x0000000070002584                SNVS_HP_WRAPPER_TZ_IRQHandler
+                0x0000000070002584                SAI3_TX_DriverIRQHandler
+                0x0000000070002584                FLEXIO3_DriverIRQHandler
+                0x0000000070002584                ACMP2_IRQHandler
+                0x0000000070002584                GPT2_IRQHandler
+                0x0000000070002584                FLEXRAM_IRQHandler
+                0x0000000070002584                DMA5_DMA21_DriverIRQHandler
+                0x0000000070002584                ACMP1_IRQHandler
+                0x0000000070002584                BusFault_Handler
+                0x0000000070002584                Reserved87_IRQHandler
+                0x0000000070002584                DMA15_DMA31_DriverIRQHandler
+                0x0000000070002584                GPIO4_Combined_16_31_IRQHandler
+                0x0000000070002584                LPSPI3_DriverIRQHandler
+                0x0000000070002584                ENC4_IRQHandler
+                0x0000000070002584                LPI2C2_DriverIRQHandler
+                0x0000000070002584                DMA_ERROR_DriverIRQHandler
+                0x0000000070002584                PWM4_0_IRQHandler
+                0x0000000070002584                CAN1_DriverIRQHandler
+                0x0000000070002584                TMR1_IRQHandler
+                0x0000000070002584                TRNG_IRQHandler
+                0x0000000070002584                LCDIF_IRQHandler
+                0x0000000070002584                PWM3_FAULT_IRQHandler
+                0x0000000070002584                CTI1_ERROR_IRQHandler
+                0x0000000070002584                PWM1_3_IRQHandler
+                0x0000000070002588                NMI_Handler
+                0x000000007000258c                HardFault_Handler
+                0x0000000070002590                SVC_Handler
+                0x0000000070002594                PendSV_Handler
+                0x0000000070002598                SysTick_Handler
+                0x000000007000259c                DMA0_DMA16_IRQHandler
+                0x00000000700025a0                DMA1_DMA17_IRQHandler
+                0x00000000700025a4                DMA2_DMA18_IRQHandler
+                0x00000000700025a8                DMA3_DMA19_IRQHandler
+                0x00000000700025ac                DMA4_DMA20_IRQHandler
+                0x00000000700025b0                DMA5_DMA21_IRQHandler
+                0x00000000700025b4                DMA6_DMA22_IRQHandler
+                0x00000000700025b8                DMA7_DMA23_IRQHandler
+                0x00000000700025bc                DMA8_DMA24_IRQHandler
+                0x00000000700025c0                DMA9_DMA25_IRQHandler
+                0x00000000700025c4                DMA10_DMA26_IRQHandler
+                0x00000000700025c8                DMA11_DMA27_IRQHandler
+                0x00000000700025cc                DMA12_DMA28_IRQHandler
+                0x00000000700025d0                DMA13_DMA29_IRQHandler
+                0x00000000700025d4                DMA14_DMA30_IRQHandler
+                0x00000000700025d8                DMA15_DMA31_IRQHandler
+                0x00000000700025dc                DMA_ERROR_IRQHandler
+                0x00000000700025e0                LPUART1_IRQHandler
+                0x00000000700025e4                LPUART2_IRQHandler
+                0x00000000700025e8                LPUART3_IRQHandler
+                0x00000000700025ec                LPUART4_IRQHandler
+                0x00000000700025f0                LPUART5_IRQHandler
+                0x00000000700025f4                LPUART6_IRQHandler
+                0x00000000700025f8                LPUART7_IRQHandler
+                0x00000000700025fc                LPUART8_IRQHandler
+                0x0000000070002600                LPI2C1_IRQHandler
+                0x0000000070002604                LPI2C2_IRQHandler
+                0x0000000070002608                LPI2C3_IRQHandler
+                0x000000007000260c                LPI2C4_IRQHandler
+                0x0000000070002610                LPSPI1_IRQHandler
+                0x0000000070002614                LPSPI2_IRQHandler
+                0x0000000070002618                LPSPI3_IRQHandler
+                0x000000007000261c                LPSPI4_IRQHandler
+                0x0000000070002620                CAN1_IRQHandler
+                0x0000000070002624                CAN2_IRQHandler
+                0x0000000070002628                SAI1_IRQHandler
+                0x000000007000262c                SAI2_IRQHandler
+                0x0000000070002630                SAI3_RX_IRQHandler
+                0x0000000070002634                SAI3_TX_IRQHandler
+                0x0000000070002638                SPDIF_IRQHandler
+                0x000000007000263c                FLEXIO1_IRQHandler
+                0x0000000070002640                FLEXIO2_IRQHandler
+                0x0000000070002644                FLEXSPI2_IRQHandler
+                0x0000000070002648                FLEXSPI_IRQHandler
+                0x000000007000264c                USDHC1_IRQHandler
+                0x0000000070002650                USDHC2_IRQHandler
+                0x0000000070002654                ENET_IRQHandler
+                0x0000000070002658                ENET_1588_Timer_IRQHandler
+                0x000000007000265c                ENET2_IRQHandler
+                0x0000000070002660                ENET2_1588_Timer_IRQHandler
+                0x0000000070002664                CAN3_IRQHandler
+                0x0000000070002668                FLEXIO3_IRQHandler
+ .text          0x0000000070002750        0xc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+                0x0000000070002750                atexit
+ .text          0x000000007000275c       0x10 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+                0x000000007000275c                atoi
+                0x0000000070002764                _atoi_r
+ .text          0x000000007000276c        0xc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+                0x000000007000276c                __errno
+ .text          0x0000000070002778       0x28 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+                0x0000000070002778                exit
+ .text          0x00000000700027a0       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+                0x00000000700027a0                __libc_fini_array
+ .text          0x00000000700027d4       0x48 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+                0x00000000700027d4                __libc_init_array
+ .text          0x000000007000281c       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+                0x000000007000281c                malloc
+                0x000000007000282c                free
+ .text          0x000000007000283c      0x134 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+                0x000000007000283c                memcpy
+ .text          0x0000000070002970       0xd0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+                0x0000000070002970                memmove
+ .text          0x0000000070002a40       0xa0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+                0x0000000070002a40                memset
+ .text          0x0000000070002ae0       0xac /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+                0x0000000070002ae0                _free_r
+ .text          0x0000000070002b8c       0xc8 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000070002b8c                _malloc_r
+ .text          0x0000000070002c54       0x24 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+                0x0000000070002c54                _sbrk_r
+ *fill*         0x0000000070002c78        0x8 
+ .text          0x0000000070002c80      0x2dc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+                0x0000000070002c88                strcmp
+ *fill*         0x0000000070002f5c       0x24 
+ .text          0x0000000070002f80       0xdc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+                0x0000000070002f80                strlen
+ .text          0x000000007000305c      0x168 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+                0x0000000070003190                _strtol_r
+                0x0000000070003194                strtol_l
+                0x00000000700031ac                strtol
+ .text          0x00000000700031c4       0xa0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+                0x00000000700031c4                __register_exitproc
+ .text          0x0000000070003264       0x9c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+                0x0000000070003264                __call_exitprocs
+ .text          0x0000000070003300        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+                0x0000000070003300                __malloc_lock
+                0x0000000070003304                __malloc_unlock
+ .text          0x0000000070003308        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+                0x0000000070003308                _exit
+ *(.text*)
+ .text.CLOCK_ControlGate
+                0x000000007000330c       0x74 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .text.CLOCK_EnableClock
+                0x0000000070003380       0x1e CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .text.GPIO_PortSet
+                0x000000007000339e       0x1e CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .text.GPIO_PortClear
+                0x00000000700033bc       0x1e CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ *fill*         0x00000000700033da        0x2 
+ .text.Led_Init
+                0x00000000700033dc       0x24 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+                0x00000000700033dc                Led_Init
+ .text.LedControl
+                0x0000000070003400       0x88 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .text.main     0x0000000070003488       0x64 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+                0x0000000070003488                main
+ .text.CLOCK_ControlGate
+                0x00000000700034ec       0x74 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .text.CLOCK_EnableClock
+                0x0000000070003560       0x1e CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .text.IOMUXC_SetPinMux
+                0x000000007000357e       0x3a CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .text.IOMUXC_SetPinConfig
+                0x00000000700035b8       0x26 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ *fill*         0x00000000700035de        0x2 
+ .text.BOARD_InitPins
+                0x00000000700035e0       0xec CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+                0x00000000700035e0                BOARD_InitPins
+ .text.ARM_MPU_Enable
+                0x00000000700036cc       0x40 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .text.ARM_MPU_Disable
+                0x000000007000370c       0x34 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .text.CLOCK_GetMux
+                0x0000000070003740       0x44 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .text.CLOCK_GetDiv
+                0x0000000070003784       0x44 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .text.CLOCK_GetOscFreq
+                0x00000000700037c8       0x30 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .text.BOARD_DebugConsoleSrcFreq
+                0x00000000700037f8       0x64 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+                0x00000000700037f8                BOARD_DebugConsoleSrcFreq
+ .text.BOARD_InitDebugConsole
+                0x000000007000385c       0x22 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+                0x000000007000385c                BOARD_InitDebugConsole
+ *fill*         0x000000007000387e        0x2 
+ .text.BOARD_ConfigMPU
+                0x0000000070003880      0x324 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+                0x0000000070003880                BOARD_ConfigMPU
+ .text.CLOCK_SetMux
+                0x0000000070003ba4       0xac CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.CLOCK_SetDiv
+                0x0000000070003c50       0xac CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.CLOCK_ControlGate
+                0x0000000070003cfc       0x74 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.CLOCK_DisableClock
+                0x0000000070003d70       0x1e CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ *fill*         0x0000000070003d8e        0x2 
+ .text.CLOCK_SetXtalFreq
+                0x0000000070003d90       0x20 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.CLOCK_SetRtcXtalFreq
+                0x0000000070003db0       0x20 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.CLOCK_SetPllBypass
+                0x0000000070003dd0       0x4e CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ *fill*         0x0000000070003e1e        0x2 
+ .text.IOMUXC_EnableMode
+                0x0000000070003e20       0x48 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.IOMUXC_SetSaiMClkClockSource
+                0x0000000070003e68       0x6c CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.IOMUXC_MQSConfig
+                0x0000000070003ed4       0x44 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .text.BOARD_InitBootClocks
+                0x0000000070003f18        0xc CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+                0x0000000070003f18                BOARD_InitBootClocks
+ .text.BOARD_BootClockRUN
+                0x0000000070003f24      0x6d0 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+                0x0000000070003f24                BOARD_BootClockRUN
+ .text.DisableGlobalIRQ
+                0x00000000700045f4       0x22 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.EnableGlobalIRQ
+                0x0000000070004616       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_WriteBuffer
+                0x0000000070004636       0x82 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_Sprintf
+                0x00000000700046b8       0x40 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_Task
+                0x00000000700046f8      0x4f4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+                0x00000000700046f8                SHELL_Task
+ .text.SHELL_HelpCommand
+                0x0000000070004bec       0x6c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_ExitCommand
+                0x0000000070004c58       0x38 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_ProcessCommand
+                0x0000000070004c90      0x2b4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_GetHistoryCommand
+                0x0000000070004f44       0xd8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_AutoComplete
+                0x000000007000501c       0xec CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_StringCompare
+                0x0000000070005108       0x4c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_ParseLine
+                0x0000000070005154      0x100 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_GetChar
+                0x0000000070005254       0x26 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ *fill*         0x000000007000527a        0x2 
+ .text.SHELL_Init
+                0x000000007000527c      0x150 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+                0x000000007000527c                SHELL_Init
+ .text.SHELL_RegisterCommand
+                0x00000000700053cc       0x6c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+                0x00000000700053cc                SHELL_RegisterCommand
+ .text.SHELL_Write
+                0x0000000070005438       0xa0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+                0x0000000070005438                SHELL_Write
+ .text.SHELL_WriteWithCopy
+                0x00000000700054d8       0x50 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .text.SHELL_Printf
+                0x0000000070005528       0xbc CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+                0x0000000070005528                SHELL_Printf
+ .text.SHELL_PrintPrompt
+                0x00000000700055e4       0x5c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+                0x00000000700055e4                SHELL_PrintPrompt
+ .text.PrintGetWidth
+                0x0000000070005640       0x6a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintGetPrecision
+                0x00000000700056aa       0x8c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintIsobpu
+                0x0000000070005736       0x38 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintIsdi
+                0x000000007000576e       0x2c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintOutputdifFobpu
+                0x000000007000579a       0x44 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintOutputxX
+                0x00000000700057de       0x44 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintIsfF
+                0x0000000070005822       0x2c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintIsxX
+                0x000000007000584e       0x2c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintFilterLengthFlag
+                0x000000007000587a       0x3e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.PrintGetRadixFromobpu
+                0x00000000700058b8       0x40 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.ConvertRadixNumToString
+                0x00000000700058f8      0x110 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .text.StrFormatPrintf
+                0x0000000070005a08      0x290 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+                0x0000000070005a08                StrFormatPrintf
+ .text.DbgConsole_SendDataReliable
+                0x0000000070005c98       0x50 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000070005c98                DbgConsole_SendDataReliable
+ .text.DbgConsole_PrintCallback
+                0x0000000070005ce8       0x66 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ *fill*         0x0000000070005d4e        0x2 
+ .text.DbgConsole_Init
+                0x0000000070005d50       0xf8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000070005d50                DbgConsole_Init
+ .text.DbgConsole_Printf
+                0x0000000070005e48       0x78 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000070005e48                DbgConsole_Printf
+ .text.DisableGlobalIRQ
+                0x0000000070005ec0       0x22 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.EnableGlobalIRQ
+                0x0000000070005ee2       0x20 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_StartWriting
+                0x0000000070005f02       0x38 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_StartReading
+                0x0000000070005f3a       0x38 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_Write
+                0x0000000070005f72       0x44 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_Read
+                0x0000000070005fb6       0x44 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .text.SerialManager_Init
+                0x0000000070005ffa       0x60 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x0000000070005ffa                SerialManager_Init
+ .text.SerialManager_OpenWriteHandle
+                0x000000007000605a       0x50 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x000000007000605a                SerialManager_OpenWriteHandle
+ .text.SerialManager_CloseWriteHandle
+                0x00000000700060aa       0x50 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x00000000700060aa                SerialManager_CloseWriteHandle
+ .text.SerialManager_OpenReadHandle
+                0x00000000700060fa       0x60 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x00000000700060fa                SerialManager_OpenReadHandle
+ .text.SerialManager_CloseReadHandle
+                0x000000007000615a       0x4e CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x000000007000615a                SerialManager_CloseReadHandle
+ .text.SerialManager_WriteBlocking
+                0x00000000700061a8       0x20 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x00000000700061a8                SerialManager_WriteBlocking
+ .text.SerialManager_ReadBlocking
+                0x00000000700061c8       0x20 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                0x00000000700061c8                SerialManager_ReadBlocking
+ .text.Serial_UartInit
+                0x00000000700061e8       0x3e CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+                0x00000000700061e8                Serial_UartInit
+ .text.Serial_UartWrite
+                0x0000000070006226       0x38 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+                0x0000000070006226                Serial_UartWrite
+ .text.Serial_UartRead
+                0x000000007000625e       0x38 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+                0x000000007000625e                Serial_UartRead
+ *fill*         0x0000000070006296        0x2 
+ .text.CLOCK_ControlGate
+                0x0000000070006298       0x74 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.CLOCK_EnableClock
+                0x000000007000630c       0x1e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .text.LPUART_SoftwareReset
+                0x000000007000632a       0x2c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ *fill*         0x0000000070006356        0x2 
+ .text.LPUART_GetInstance
+                0x0000000070006358       0x58 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006358                LPUART_GetInstance
+ .text.LPUART_Init
+                0x00000000700063b0      0x330 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x00000000700063b0                LPUART_Init
+ .text.LPUART_GetDefaultConfig
+                0x00000000700066e0       0x98 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x00000000700066e0                LPUART_GetDefaultConfig
+ .text.LPUART_GetStatusFlags
+                0x0000000070006778       0x2c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006778                LPUART_GetStatusFlags
+ .text.LPUART_ClearStatusFlags
+                0x00000000700067a4       0xa4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x00000000700067a4                LPUART_ClearStatusFlags
+ .text.LPUART_WriteBlocking
+                0x0000000070006848       0x78 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006848                LPUART_WriteBlocking
+ .text.LPUART_ReadBlocking
+                0x00000000700068c0      0x170 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x00000000700068c0                LPUART_ReadBlocking
+ .text.LPUART1_DriverIRQHandler
+                0x0000000070006a30       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006a30                LPUART1_DriverIRQHandler
+ .text.LPUART2_DriverIRQHandler
+                0x0000000070006a58       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006a58                LPUART2_DriverIRQHandler
+ .text.LPUART3_DriverIRQHandler
+                0x0000000070006a80       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006a80                LPUART3_DriverIRQHandler
+ .text.LPUART4_DriverIRQHandler
+                0x0000000070006aa8       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006aa8                LPUART4_DriverIRQHandler
+ .text.LPUART5_DriverIRQHandler
+                0x0000000070006ad0       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006ad0                LPUART5_DriverIRQHandler
+ .text.LPUART6_DriverIRQHandler
+                0x0000000070006af8       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006af8                LPUART6_DriverIRQHandler
+ .text.LPUART7_DriverIRQHandler
+                0x0000000070006b20       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006b20                LPUART7_DriverIRQHandler
+ .text.LPUART8_DriverIRQHandler
+                0x0000000070006b48       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                0x0000000070006b48                LPUART8_DriverIRQHandler
+ .text.CLOCK_GetOscFreq
+                0x0000000070006b70       0x30 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_IsPllBypassed
+                0x0000000070006ba0       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_IsPllEnabled
+                0x0000000070006bd2       0x3c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .text.CLOCK_GetPllBypassRefClk
+                0x0000000070006c0e       0x34 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ *fill*         0x0000000070006c42        0x2 
+ .text.CLOCK_InitExternalClk
+                0x0000000070006c44       0x78 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006c44                CLOCK_InitExternalClk
+ .text.CLOCK_SwitchOsc
+                0x0000000070006cbc       0x34 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006cbc                CLOCK_SwitchOsc
+ .text.CLOCK_InitRcOsc24M
+                0x0000000070006cf0       0x24 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006cf0                CLOCK_InitRcOsc24M
+ .text.CLOCK_InitArmPll
+                0x0000000070006d14       0x68 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006d14                CLOCK_InitArmPll
+ .text.CLOCK_InitSysPll
+                0x0000000070006d7c       0x9c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006d7c                CLOCK_InitSysPll
+ .text.CLOCK_DeinitUsb2Pll
+                0x0000000070006e18       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006e18                CLOCK_DeinitUsb2Pll
+ .text.CLOCK_DeinitAudioPll
+                0x0000000070006e30       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006e30                CLOCK_DeinitAudioPll
+ .text.CLOCK_DeinitEnetPll
+                0x0000000070006e4c       0x1c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006e4c                CLOCK_DeinitEnetPll
+ .text.CLOCK_GetPllFreq
+                0x0000000070006e68      0x418 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070006e68                CLOCK_GetPllFreq
+ .text.CLOCK_InitSysPfd
+                0x0000000070007280       0x64 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x0000000070007280                CLOCK_InitSysPfd
+ .text.HAL_UartGetStatus
+                0x00000000700072e4       0x28 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .text.HAL_UartInit
+                0x000000007000730c      0x128 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+                0x000000007000730c                HAL_UartInit
+ .text.HAL_UartReceiveBlocking
+                0x0000000070007434       0x8c CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+                0x0000000070007434                HAL_UartReceiveBlocking
+ .text.HAL_UartSendBlocking
+                0x00000000700074c0       0x84 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+                0x00000000700074c0                HAL_UartSendBlocking
+ .text.DisableGlobalIRQ
+                0x0000000070007544       0x22 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.EnableGlobalIRQ
+                0x0000000070007566       0x20 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_Error_Check
+                0x0000000070007586       0x36 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .text.LIST_AddTail
+                0x00000000700075bc       0x6c CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+                0x00000000700075bc                LIST_AddTail
+ .text.LIST_GetHead
+                0x0000000070007628       0x18 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+                0x0000000070007628                LIST_GetHead
+ .text.LIST_GetNext
+                0x0000000070007640       0x18 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+                0x0000000070007640                LIST_GetNext
+ .text.SystemInit
+                0x0000000070007658      0x1cc CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+                0x0000000070007658                SystemInit
+ .text.SystemInitHook
+                0x0000000070007824        0xe CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+                0x0000000070007824                SystemInitHook
+ *fill*         0x0000000070007832        0x2 
+ .text.__assert_func
+                0x0000000070007834       0x28 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+                0x0000000070007834                __assert_func
+ .text.GPIO_PinWrite
+                0x000000007000785c       0x54 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+                0x000000007000785c                GPIO_PinWrite
+ .text._sbrk    0x00000000700078b0       0x68 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+                0x00000000700078b0                _sbrk
+ *(.rodata)
+ .rodata        0x0000000070007918      0x101 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ *fill*         0x0000000070007a19        0x3 
+ .rodata        0x0000000070007a1c       0x3b CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ *fill*         0x0000000070007a57        0x1 
+ .rodata        0x0000000070007a58       0x6b CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ *fill*         0x0000000070007ac3        0x1 
+ .rodata        0x0000000070007ac4       0x59 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ *fill*         0x0000000070007b1d        0x3 
+ .rodata        0x0000000070007b20      0x21d CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ *fill*         0x0000000070007d3d        0x3 
+ .rodata        0x0000000070007d40      0x1ee CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ *fill*         0x0000000070007f2e        0x2 
+ .rodata        0x0000000070007f30      0x1ac CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .rodata        0x00000000700080dc       0xbb CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ *fill*         0x0000000070008197        0x1 
+ .rodata        0x0000000070008198       0x3e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ *fill*         0x00000000700081d6        0x2 
+ .rodata        0x00000000700081d8       0x92 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ *fill*         0x000000007000826a        0x2 
+ .rodata        0x000000007000826c        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+                0x000000007000826c                _global_impure_ptr
+ .rodata        0x0000000070008270      0x101 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+                0x0000000070008270                _ctype_
+ *(.rodata*)
+ *fill*         0x0000000070008371        0x3 
+ .rodata.__func__.11255
+                0x0000000070008374       0x12 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ *fill*         0x0000000070008386        0x2 
+ .rodata.__func__.10417
+                0x0000000070008388       0x12 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ *fill*         0x000000007000839a        0x2 
+ .rodata.__func__.10957
+                0x000000007000839c       0x10 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .rodata.armPllConfig_BOARD_BootClockRUN
+                0x00000000700083ac        0x8 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+                0x00000000700083ac                armPllConfig_BOARD_BootClockRUN
+ .rodata.sysPllConfig_BOARD_BootClockRUN
+                0x00000000700083b4       0x14 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+                0x00000000700083b4                sysPllConfig_BOARD_BootClockRUN
+ .rodata.__func__.10417
+                0x00000000700083c8       0x12 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ *fill*         0x00000000700083da        0x2 
+ .rodata.__func__.10403
+                0x00000000700083dc        0xd CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ *fill*         0x00000000700083e9        0x3 
+ .rodata.__func__.10391
+                0x00000000700083ec        0xd CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ *fill*         0x00000000700083f9        0x3 
+ .rodata.__func__.11871
+                0x00000000700083fc        0xb CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ *fill*         0x0000000070008407        0x1 
+ .rodata.__func__.11877
+                0x0000000070008408       0x16 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ *fill*         0x000000007000841e        0x2 
+ .rodata.__func__.11890
+                0x0000000070008420        0xc CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .rodata.__func__.11897
+                0x000000007000842c       0x14 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .rodata.__func__.11906
+                0x0000000070008440        0xd CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ *fill*         0x000000007000844d        0x3 
+ .rodata.__func__.11917
+                0x0000000070008450       0x12 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ *fill*         0x0000000070008462        0x2 
+ .rodata.s_lpuartBases
+                0x0000000070008464       0x24 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.s_lpuartClock
+                0x0000000070008488       0x12 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ *fill*         0x000000007000849a        0x2 
+ .rodata.__func__.10867
+                0x000000007000849c       0x13 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ *fill*         0x00000000700084af        0x1 
+ .rodata.__func__.10910
+                0x00000000700084b0        0xc CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10417
+                0x00000000700084bc       0x12 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ *fill*         0x00000000700084ce        0x2 
+ .rodata.__func__.10938
+                0x00000000700084d0       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10997
+                0x00000000700084e8       0x15 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ *fill*         0x00000000700084fd        0x3 
+ .rodata.__func__.11014
+                0x0000000070008500       0x14 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .rodata.__func__.10613
+                0x0000000070008514       0x16 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ *fill*         0x000000007000852a        0x2 
+ .rodata.__func__.10814
+                0x000000007000852c       0x11 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ *fill*         0x000000007000853d        0x3 
+ .rodata.s_LpuartAdapterBase
+                0x0000000070008540       0x24 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .rodata.__func__.10908
+                0x0000000070008564        0xd CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ *fill*         0x0000000070008571        0x3 
+ .rodata.__func__.10921
+                0x0000000070008574       0x18 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .rodata.__func__.10928
+                0x000000007000858c       0x15 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ *fill*         0x00000000700085a1        0x3 
+ .rodata.__func__.10709
+                0x00000000700085a4        0xe CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ *(.glue_7)
+ .glue_7        0x00000000700085b2        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000700085b2        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x00000000700085b2        0x2 
+ .eh_frame      0x00000000700085b4        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ *(.init)
+ .init          0x00000000700085b4        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crti.o
+                0x00000000700085b4                _init
+ .init          0x00000000700085b8        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtn.o
+ *(.fini)
+ .fini          0x00000000700085c0        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crti.o
+                0x00000000700085c0                _fini
+ .fini          0x00000000700085c4        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtn.o
+                0x00000000700085cc                . = ALIGN (0x4)
+
+.vfp11_veneer   0x00000000700085cc        0x0
+ .vfp11_veneer  0x00000000700085cc        0x0 linker stubs
+
+.v4_bx          0x00000000700085cc        0x0
+ .v4_bx         0x00000000700085cc        0x0 linker stubs
+
+.iplt           0x00000000700085cc        0x0
+ .iplt          0x00000000700085cc        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x00000000700085cc        0x8
+                0x00000000700085cc                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x00000000700085cc        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+                                         0x10 (size before relaxing)
+                0x00000000700085d4                __exidx_end = .
+
+.rel.dyn        0x00000000700085d4        0x0
+ .rel.iplt      0x00000000700085d4        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+
+.ctors          0x00000000700085d4        0x0
+                0x00000000700085d4                __CTOR_LIST__ = .
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x00000000700085d4                __CTOR_END__ = .
+
+.dtors          0x00000000700085d4        0x0
+                0x00000000700085d4                __DTOR_LIST__ = .
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x00000000700085d4                __DTOR_END__ = .
+
+.preinit_array  0x00000000700085d4        0x0
+                0x00000000700085d4                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00000000700085d4                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00000000700085d4        0x4
+                0x00000000700085d4                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x00000000700085d4        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x00000000700085d8                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00000000700085d8        0x4
+                0x00000000700085d8                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x00000000700085d8        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+                0x00000000700085dc                PROVIDE (__fini_array_end = .)
+                0x00000000700085dc                __etext = .
+                0x00000000700085dc                __DATA_ROM = .
+
+.interrupts_ram
+                0x0000000020000000        0x0
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __VECTOR_RAM__ = .
+                0x0000000020000000                __interrupts_ram_start__ = .
+ *(.m_interrupts_ram)
+                0x0000000020000000                . = (. + VECTOR_RAM_SIZE)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __interrupts_ram_end__ = .
+                0x0000000070002000                __VECTOR_RAM = DEFINED (__ram_vector_table__)?__VECTOR_RAM__:ORIGIN (m_interrupts)
+                0x0000000000000000                __RAM_VECTOR_TABLE_SIZE_BYTES = DEFINED (__ram_vector_table__)?(__interrupts_ram_end__ - __interrupts_ram_start__):0x0
+
+.data           0x0000000020000000       0xb0 load address 0x00000000700085dc
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                __DATA_RAM = .
+                0x0000000020000000                __data_start__ = .
+ *(m_usb_dma_init_data)
+ *(.data)
+ .data          0x0000000020000000       0x64 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+                0x0000000020000000                _impure_ptr
+ *(.data*)
+ .data.g_shellCommandled
+                0x0000000020000064       0x18 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+                0x0000000020000064                g_shellCommandled
+ .data.g_shellCommandhelp
+                0x000000002000007c       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .data.g_shellCommandexit
+                0x0000000020000094       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .data.SystemCoreClock
+                0x00000000200000ac        0x4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+                0x00000000200000ac                SystemCoreClock
+ *(.jcr*)
+                0x00000000200000b0                . = ALIGN (0x4)
+                0x00000000200000b0                __data_end__ = .
+                0x000000007000868c                __NDATA_ROM = (__DATA_ROM + (__data_end__ - __data_start__))
+
+.tm_clone_table
+                0x00000000200000b0        0x0 load address 0x000000007000868c
+ .tm_clone_table
+                0x00000000200000b0        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .tm_clone_table
+                0x00000000200000b0        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+
+.igot.plt       0x00000000200000b0        0x0 load address 0x000000007000868c
+ .igot.plt      0x00000000200000b0        0x0 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+
+.ncache.init    0x00000000200000b0        0x0 load address 0x000000007000868c
+                0x00000000200000b0                __noncachedata_start__ = .
+ *(NonCacheable.init)
+                0x00000000200000b0                . = ALIGN (0x4)
+                0x00000000200000b0                __noncachedata_init_end__ = .
+                0x00000000200000b0                . = __noncachedata_init_end__
+
+.ncache         0x00000000200000b0        0x0
+ *(NonCacheable)
+                0x00000000200000b0                . = ALIGN (0x4)
+                0x00000000200000b0                __noncachedata_end__ = .
+                0x000000007000868c                __DATA_END = (__NDATA_ROM + (__noncachedata_init_end__ - __noncachedata_start__))
+                0x0000000070400000                text_end = (ORIGIN (m_text) + LENGTH (m_text))
+                0x0000000000000001                ASSERT ((__DATA_END <= text_end), region m_text overflowed with text and data)
+
+.bss            0x00000000200000b0      0x300 load address 0x000000007000868c
+                0x00000000200000b0                . = ALIGN (0x4)
+                0x00000000200000b0                __START_BSS = .
+                0x00000000200000b0                __bss_start__ = .
+ *(m_usb_dma_noninit_data)
+ *(.bss)
+ .bss           0x00000000200000b0       0x1c /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .bss           0x00000000200000cc        0x8 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                0x00000000200000cc                __malloc_free_list
+                0x00000000200000d0                __malloc_sbrk_start
+ .bss           0x00000000200000d4       0x8c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000020000160        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+                0x0000000020000160                _global_atexit
+ *(.bss*)
+ .bss.s_shellHandleBuffer
+                0x0000000020000164      0x1a8 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .bss.s_shellHandle
+                0x000000002000030c        0x4 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .bss.s_paramBuffer
+                0x0000000020000310       0x40 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .bss.endoflinechar.11769
+                0x0000000020000350        0x1 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ *fill*         0x0000000020000351        0x3 
+ .bss.s_debugConsoleState
+                0x0000000020000354       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .bss.g_serialHandle
+                0x0000000020000374        0x4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+                0x0000000020000374                g_serialHandle
+ .bss.s_lpuartHandle
+                0x0000000020000378       0x24 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .bss.s_lpuartIsr
+                0x000000002000039c        0x4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .bss.g_xtalFreq
+                0x00000000200003a0        0x4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x00000000200003a0                g_xtalFreq
+ .bss.g_rtcXtalFreq
+                0x00000000200003a4        0x4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                0x00000000200003a4                g_rtcXtalFreq
+ .bss.heap_end.6046
+                0x00000000200003a8        0x4 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ *(COMMON)
+ COMMON         0x00000000200003ac        0x4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+                0x00000000200003ac                errno
+                0x00000000200003b0                . = ALIGN (0x4)
+                0x00000000200003b0                __bss_end__ = .
+                0x00000000200003b0                __END_BSS = .
+
+.heap           0x00000000200003b0      0x400 load address 0x000000007000898c
+                0x00000000200003b0                . = ALIGN (0x8)
+                0x00000000200003b0                __end__ = .
+                0x00000000200003b0                PROVIDE (end = .)
+                0x00000000200003b0                __HeapBase = .
+                0x00000000200007b0                . = (. + HEAP_SIZE)
+ *fill*         0x00000000200003b0      0x400 
+                0x00000000200007b0                __HeapLimit = .
+                0x00000000200007b0                __heap_limit = .
+
+.stack          0x00000000200007b0      0x400 load address 0x0000000070008d8c
+                0x00000000200007b0                . = ALIGN (0x8)
+                0x0000000020000bb0                . = (. + STACK_SIZE)
+ *fill*         0x00000000200007b0      0x400 
+                0x0000000020020000                __StackTop = (ORIGIN (m_data) + LENGTH (m_data))
+                0x000000002001fc00                __StackLimit = (__StackTop - STACK_SIZE)
+                0x0000000020020000                PROVIDE (__stack = __StackTop)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000050       0x1c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .ARM.attributes
+                0x000000000000006c       0x32 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .ARM.attributes
+                0x000000000000009e       0x32 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .ARM.attributes
+                0x00000000000000d0       0x32 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .ARM.attributes
+                0x0000000000000102       0x32 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .ARM.attributes
+                0x0000000000000134       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .ARM.attributes
+                0x0000000000000166       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .ARM.attributes
+                0x0000000000000198       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .ARM.attributes
+                0x00000000000001ca       0x32 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .ARM.attributes
+                0x00000000000001fc       0x32 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .ARM.attributes
+                0x000000000000022e       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .ARM.attributes
+                0x0000000000000260       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .ARM.attributes
+                0x0000000000000292       0x32 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .ARM.attributes
+                0x00000000000002c4       0x32 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .ARM.attributes
+                0x00000000000002f6       0x1d CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+ .ARM.attributes
+                0x0000000000000313       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .ARM.attributes
+                0x0000000000000345       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .ARM.attributes
+                0x0000000000000377       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .ARM.attributes
+                0x00000000000003a9       0x37 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .ARM.attributes
+                0x00000000000003e0       0x37 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .ARM.attributes
+                0x0000000000000417       0x32 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .ARM.attributes
+                0x0000000000000449       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000000000000047b       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x00000000000004ad       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000000004df       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000511       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000543       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000573       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000005a5       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000005d7       0x1c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000000005f3       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000625       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000657       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000689       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x00000000000006bb       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000006ed       0x1c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000709       0x1c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000725       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x0000000000000757       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000789       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000007bb       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000000007eb       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000000000000081d       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000084f       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000881       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+ .ARM.attributes
+                0x00000000000008b1       0x1e /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtn.o
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region m_data overflowed with stack and heap)
+OUTPUT(../flexspi_nor_debug/shell.elf elf32-littlearm)
+LOAD linker stubs
+
+.comment        0x0000000000000000       0xa7
+ .comment       0x0000000000000000       0x59 /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtbegin.o
+                                         0x5a (size before relaxing)
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .comment       0x0000000000000059       0x5a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .comment       0x0000000000000059       0x4e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+                                         0x4f (size before relaxing)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .comment       0x00000000000000a7       0x4f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+ .comment       0x00000000000000a7       0x5a /usr/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m+dp/hard/crtend.o
+
+.debug_line     0x0000000000000000     0x9349
+ .debug_line    0x0000000000000000       0x87 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .debug_line    0x0000000000000087      0x3e1 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .debug_line    0x0000000000000468      0x285 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .debug_line    0x00000000000006ed      0x5ff CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .debug_line    0x0000000000000cec      0x594 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .debug_line    0x0000000000001280      0xc3a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .debug_line    0x0000000000001eba      0x925 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .debug_line    0x00000000000027df      0x5a6 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .debug_line    0x0000000000002d85      0x524 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .debug_line    0x00000000000032a9      0x2e6 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .debug_line    0x000000000000358f     0x1155 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .debug_line    0x00000000000046e4      0xf8c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .debug_line    0x0000000000005670      0x32e CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .debug_line    0x000000000000599e      0x4be CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .debug_line    0x0000000000005e5c      0x1cb CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+ .debug_line    0x0000000000006027      0x3ca CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .debug_line    0x00000000000063f1      0x20d CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .debug_line    0x00000000000065fe      0x354 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .debug_line    0x0000000000006952      0x1a8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .debug_line    0x0000000000006afa      0x1aa CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .debug_line    0x0000000000006ca4      0x11b CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .debug_line    0x0000000000006dbf      0x14a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_line    0x0000000000006f09      0x14e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .debug_line    0x0000000000007057      0x108 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .debug_line    0x000000000000715f      0x16c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_line    0x00000000000072cb       0xd7 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_line    0x00000000000073a2       0xe3 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_line    0x0000000000007485      0x10d /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .debug_line    0x0000000000007592      0x15e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_line    0x00000000000076f0       0xbe /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000077ae      0x287 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_line    0x0000000000007a35      0x26b /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_line    0x0000000000007ca0      0x2af /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x0000000000007f4f      0x2f2 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x0000000000008241      0x182 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x00000000000083c3      0x137 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .debug_line    0x00000000000084fa       0xaf /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+ .debug_line    0x00000000000085a9      0x3da /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_line    0x0000000000008983      0x228 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000008bab      0x22a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000008dd5      0x154 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .debug_line    0x0000000000008f29      0x13d /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_line    0x0000000000009066      0x275 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_line    0x00000000000092db       0x6e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+
+.debug_info     0x0000000000000000    0x2633e
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .debug_info    0x0000000000000026     0x17d7 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .debug_info    0x00000000000017fd     0x12d4 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .debug_info    0x0000000000002ad1     0x1a1d CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .debug_info    0x00000000000044ee     0x2272 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .debug_info    0x0000000000006760     0x1a4c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .debug_info    0x00000000000081ac     0x13e1 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .debug_info    0x000000000000958d     0x13d6 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .debug_info    0x000000000000a963     0x11c7 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .debug_info    0x000000000000bb2a      0xd56 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .debug_info    0x000000000000c880     0x2e78 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .debug_info    0x000000000000f6f8     0x2da7 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .debug_info    0x000000000001249f     0x13d1 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .debug_info    0x0000000000013870      0xe82 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .debug_info    0x00000000000146f2       0x26 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+ .debug_info    0x0000000000014718      0xcf5 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .debug_info    0x000000000001540d      0x9d1 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .debug_info    0x0000000000015dde     0x15ec CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .debug_info    0x00000000000173ca      0xeab CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .debug_info    0x0000000000018275     0x1080 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .debug_info    0x00000000000192f5      0x9b2 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .debug_info    0x0000000000019ca7      0x995 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_info    0x000000000001a63c      0x9d9 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .debug_info    0x000000000001b015      0x953 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .debug_info    0x000000000001b968      0x9e7 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_info    0x000000000001c34f      0x102 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_info    0x000000000001c451      0x92a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_info    0x000000000001cd7b      0x11a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .debug_info    0x000000000001ce95      0x9b6 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_info    0x000000000001d84b       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+ .debug_info    0x000000000001d871      0xf2b /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_info    0x000000000001e79c      0xf21 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_info    0x000000000001f6bd      0xb85 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x0000000000020242      0xc5a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x0000000000020e9c      0x9fb /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x0000000000021897       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .debug_info    0x00000000000218bd       0x26 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+ .debug_info    0x00000000000218e3     0x126b /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_info    0x0000000000022b4e      0xa3c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_info    0x000000000002358a      0xa10 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000023f9a      0xe91 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .debug_info    0x0000000000024e2b      0x961 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_info    0x000000000002578c      0xb0f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_info    0x000000000002629b       0xa3 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x5df9
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .debug_abbrev  0x0000000000000014      0x33d CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .debug_abbrev  0x0000000000000351      0x28b CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .debug_abbrev  0x00000000000005dc      0x3a2 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .debug_abbrev  0x000000000000097e      0x315 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .debug_abbrev  0x0000000000000c93      0x43c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .debug_abbrev  0x00000000000010cf      0x39d CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .debug_abbrev  0x000000000000146c      0x31c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .debug_abbrev  0x0000000000001788      0x31c CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .debug_abbrev  0x0000000000001aa4      0x294 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .debug_abbrev  0x0000000000001d38      0x40d CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .debug_abbrev  0x0000000000002145      0x41d CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .debug_abbrev  0x0000000000002562      0x29d CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .debug_abbrev  0x00000000000027ff      0x3c5 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .debug_abbrev  0x0000000000002bc4       0x14 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+ .debug_abbrev  0x0000000000002bd8      0x1a6 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .debug_abbrev  0x0000000000002d7e      0x1ea CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .debug_abbrev  0x0000000000002f68      0x31e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .debug_abbrev  0x0000000000003286      0x20e CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .debug_abbrev  0x0000000000003494      0x1fc CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .debug_abbrev  0x0000000000003690      0x233 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .debug_abbrev  0x00000000000038c3      0x1f4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000003ab7      0x1d6 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .debug_abbrev  0x0000000000003c8d      0x198 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .debug_abbrev  0x0000000000003e25      0x1f6 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x000000000000401b       0xcf /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_abbrev  0x00000000000040ea      0x17a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000004264       0xcc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000004330      0x1f2 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000000000004522       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000004536      0x1de /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000004714      0x1d9 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000000048ed      0x286 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x0000000000004b73      0x2d1 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x0000000000004e44      0x212 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000005056       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .debug_abbrev  0x000000000000506a       0x14 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+ .debug_abbrev  0x000000000000507e      0x2d4 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_abbrev  0x0000000000005352      0x261 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00000000000055b3      0x237 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000000057ea      0x178 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .debug_abbrev  0x0000000000005962      0x1c5 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_abbrev  0x0000000000005b27      0x268 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_abbrev  0x0000000000005d8f       0x6a /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+
+.debug_aranges  0x0000000000000000      0xc48
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .debug_aranges
+                0x0000000000000020       0x50 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .debug_aranges
+                0x0000000000000070       0x48 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .debug_aranges
+                0x00000000000000b8       0x58 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .debug_aranges
+                0x0000000000000110       0x78 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .debug_aranges
+                0x0000000000000188       0xc0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .debug_aranges
+                0x0000000000000248       0xb8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .debug_aranges
+                0x0000000000000300       0x98 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .debug_aranges
+                0x0000000000000398       0x98 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .debug_aranges
+                0x0000000000000430       0x48 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .debug_aranges
+                0x0000000000000478      0x170 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .debug_aranges
+                0x00000000000005e8      0x1a0 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .debug_aranges
+                0x0000000000000788       0x50 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .debug_aranges
+                0x00000000000007d8       0x90 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .debug_aranges
+                0x0000000000000868       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+ .debug_aranges
+                0x0000000000000888       0x30 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .debug_aranges
+                0x00000000000008b8       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .debug_aranges
+                0x00000000000008d8       0x50 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .debug_aranges
+                0x0000000000000928       0x18 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+ .debug_aranges
+                0x0000000000000940       0x18 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+ .debug_aranges
+                0x0000000000000958       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .debug_aranges
+                0x0000000000000978       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000998       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .debug_aranges
+                0x00000000000009b8       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .debug_aranges
+                0x00000000000009d8       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000000000009f8       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000a18       0x18 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000a30       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000a50       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000a70       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000a90       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000ab0       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000ad0       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x0000000000000af0       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x0000000000000b10       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000b30       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x0000000000000b50       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000b70       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_aranges
+                0x0000000000000b90       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000bb0       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000bd0       0x18 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x0000000000000be8       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_aranges
+                0x0000000000000c08       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000000c28       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+
+.debug_str      0x0000000000000000     0x869f
+ .debug_str     0x0000000000000000       0x98 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/crt0.o
+ .debug_str     0x0000000000000098     0x19f6 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+                                       0x1b04 (size before relaxing)
+ .debug_str     0x0000000000001a8e      0x1a5 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+                                        0xf8d (size before relaxing)
+ .debug_str     0x0000000000001c33      0x906 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+                                       0x119a (size before relaxing)
+ .debug_str     0x0000000000002539      0x6cd CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+                                       0x252b (size before relaxing)
+ .debug_str     0x0000000000002c06      0x5e2 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+                                       0x16a7 (size before relaxing)
+ .debug_str     0x00000000000031e8      0x37a CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+                                        0x9ca (size before relaxing)
+ .debug_str     0x0000000000003562      0x4d2 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+                                       0x1624 (size before relaxing)
+ .debug_str     0x0000000000003a34      0x2bd CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+                                        0xc1c (size before relaxing)
+ .debug_str     0x0000000000003cf1      0x309 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+                                        0xacb (size before relaxing)
+ .debug_str     0x0000000000003ffa     0x19ed CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+                                       0x320b (size before relaxing)
+ .debug_str     0x00000000000059e7     0x109c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+                                       0x29d8 (size before relaxing)
+ .debug_str     0x0000000000006a83       0xfa CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+                                       0x1666 (size before relaxing)
+ .debug_str     0x0000000000006b7d      0x1a1 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+                                        0x84d (size before relaxing)
+ .debug_str     0x0000000000006d1e       0x69 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj
+                                         0x75 (size before relaxing)
+ .debug_str     0x0000000000006d87       0xb7 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+                                        0x7d4 (size before relaxing)
+ .debug_str     0x0000000000006e3e       0x45 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+                                        0x65e (size before relaxing)
+ .debug_str     0x0000000000006e83      0x1f6 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+                                       0x189b (size before relaxing)
+ .debug_str     0x0000000000007079       0xa7 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj
+                                       0x1093 (size before relaxing)
+ .debug_str     0x0000000000007120      0x596 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj
+                                       0x1410 (size before relaxing)
+ .debug_str     0x00000000000076b6       0x62 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+                                        0x616 (size before relaxing)
+ .debug_str     0x0000000000007718      0x1f3 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+                                        0x630 (size before relaxing)
+ .debug_str     0x000000000000790b       0x50 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+                                        0x601 (size before relaxing)
+ .debug_str     0x000000000000795b       0x9b /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+                                        0x5f7 (size before relaxing)
+ .debug_str     0x00000000000079f6       0x6f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+                                        0x631 (size before relaxing)
+ .debug_str     0x0000000000007a65       0xcc /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+                                        0x202 (size before relaxing)
+ .debug_str     0x0000000000007b31       0xa0 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-impure.o)
+                                        0x5e5 (size before relaxing)
+ .debug_str     0x0000000000007bd1       0x96 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+                                        0x22c (size before relaxing)
+ .debug_str     0x0000000000007c67       0x52 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+                                        0x616 (size before relaxing)
+ .debug_str     0x0000000000007cb9       0xaa /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memcpy.o)
+                                         0xb6 (size before relaxing)
+ .debug_str     0x0000000000007d63      0x334 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+                                        0x931 (size before relaxing)
+ .debug_str     0x0000000000008097       0x48 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+                                        0x912 (size before relaxing)
+ .debug_str     0x00000000000080df      0x120 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+                                        0x715 (size before relaxing)
+ .debug_str     0x00000000000081ff       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+                                        0x72c (size before relaxing)
+ .debug_str     0x0000000000008231       0x3c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+                                        0x628 (size before relaxing)
+ .debug_str     0x000000000000826d       0x42 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+                                         0xb5 (size before relaxing)
+ .debug_str     0x00000000000082af       0x42 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strlen.o)
+                                         0xb5 (size before relaxing)
+ .debug_str     0x00000000000082f1       0x9e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+                                        0x9a8 (size before relaxing)
+ .debug_str     0x000000000000838f       0x7d /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+                                        0x683 (size before relaxing)
+ .debug_str     0x000000000000840c       0x49 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+                                        0x62e (size before relaxing)
+ .debug_str     0x0000000000008455       0x94 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-ctype_.o)
+                                        0x8fd (size before relaxing)
+ .debug_str     0x00000000000084e9       0x4c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+                                        0x611 (size before relaxing)
+ .debug_str     0x0000000000008535       0x5e /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+                                        0x621 (size before relaxing)
+ .debug_str     0x0000000000008593      0x10c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+                                        0x1a2 (size before relaxing)
+
+.debug_ranges   0x0000000000000000      0x8d8
+ .debug_ranges  0x0000000000000000       0x40 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .debug_ranges  0x0000000000000040       0x38 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .debug_ranges  0x0000000000000078       0x48 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .debug_ranges  0x00000000000000c0       0x68 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .debug_ranges  0x0000000000000128       0xc8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .debug_ranges  0x00000000000001f0       0xd8 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .debug_ranges  0x00000000000002c8       0x88 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .debug_ranges  0x0000000000000350       0x88 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .debug_ranges  0x00000000000003d8       0x38 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .debug_ranges  0x0000000000000410      0x160 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .debug_ranges  0x0000000000000570      0x190 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .debug_ranges  0x0000000000000700       0x40 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .debug_ranges  0x0000000000000740       0x80 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .debug_ranges  0x00000000000007c0       0x20 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .debug_ranges  0x00000000000007e0       0x10 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .debug_ranges  0x00000000000007f0       0x40 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .debug_ranges  0x0000000000000830       0x10 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .debug_ranges  0x0000000000000840       0x18 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_ranges  0x0000000000000858       0x38 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x0000000000000890       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_ranges  0x00000000000008b0       0x28 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+
+.debug_frame    0x0000000000000000     0x27fc
+ .debug_frame   0x0000000000000000      0x104 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj
+ .debug_frame   0x0000000000000104       0xe8 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj
+ .debug_frame   0x00000000000001ec      0x140 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj
+ .debug_frame   0x000000000000032c      0x1d4 CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj
+ .debug_frame   0x0000000000000500      0x33c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj
+ .debug_frame   0x000000000000083c      0x32c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj
+ .debug_frame   0x0000000000000b68      0x290 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj
+ .debug_frame   0x0000000000000df8      0x258 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj
+ .debug_frame   0x0000000000001050       0xe8 CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj
+ .debug_frame   0x0000000000001138      0x604 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj
+ .debug_frame   0x000000000000173c      0x6fc CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj
+ .debug_frame   0x0000000000001e38      0x114 CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj
+ .debug_frame   0x0000000000001f4c      0x254 CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj
+ .debug_frame   0x00000000000021a0       0x7c CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj
+ .debug_frame   0x000000000000221c       0x30 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj
+ .debug_frame   0x000000000000224c      0x110 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj
+ .debug_frame   0x000000000000235c       0x34 CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj
+ .debug_frame   0x0000000000002390       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000023b0       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .debug_frame   0x00000000000023e0       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000002400       0x28 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000002428       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_frame   0x000000000000245c       0x2c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000002488       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00000000000024b8       0x40 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00000000000024f8       0x38 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000002530       0x58 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000002588       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000000000025b8       0x2c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000025e4       0x68 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x000000000000264c       0x80 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_frame   0x00000000000026cc       0x34 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000002700       0x40 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000002740       0x30 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000002770       0x6c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000000027dc       0x20 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)
+
+.debug_loc      0x0000000000000000     0x1a85
+ .debug_loc     0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000032       0x6f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-atoi.o)
+ .debug_loc     0x00000000000000a1       0x22 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-exit.o)
+ .debug_loc     0x00000000000000c3       0x68 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-fini.o)
+ .debug_loc     0x000000000000012b       0xba /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-init.o)
+ .debug_loc     0x00000000000001e5       0x64 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-malloc.o)
+ .debug_loc     0x0000000000000249      0x2f1 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_loc     0x000000000000053a      0x231 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_loc     0x000000000000076b      0x211 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-freer.o)
+ .debug_loc     0x000000000000097c      0x437 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_loc     0x0000000000000db3       0x6c /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000000e1f      0x7ad /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-strtol.o)
+ .debug_loc     0x00000000000015cc      0x230 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__atexit.o)
+ .debug_loc     0x00000000000017fc      0x13f /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-__call_atexit.o)
+ .debug_loc     0x000000000000193b      0x135 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libc_nano.a(lib_a-reent.o)
+ .debug_loc     0x0000000000001a70       0x15 /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard/libnosys.a(_exit.o)

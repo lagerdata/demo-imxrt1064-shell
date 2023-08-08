@@ -1,0 +1,24 @@
+# ninja log v5
+24	102	1691505189501455722	CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/dcd.c.obj	94d73efa567ae02a
+29	391	1691505189793424078	CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_port_uart.c.obj	342b7b4ff43cafaa
+23	415	1691505189817882633	CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/pin_mux.c.obj	8fc4ed2e0955ff9c
+27	432	1691505189832636295	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/debug_console/fsl_debug_console.c.obj	6f9aa7d48f520104
+23	468	1691505189867082923	CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/board.c.obj	ffa70ced4a2e1dda
+28	479	1691505189879914053	CMakeFiles/shell.elf.dir/app/components/serial_manager/fsl_component_serial_manager.c.obj	eee0ec9c9419bd21
+25	493	1691505189885586571	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/str/fsl_str.c.obj	da79fa048715047c
+24	511	1691505189913521931	CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/clock_config.c.obj	76f7049caa60bcdd
+481	525	1691505189927732249	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/gcc/startup_MIMXRT1064.S.obj	cbf621ed3aabc31e
+105	563	1691505189964733864	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_lpuart.c.obj	aeeb0bd0d0cac31b
+22	585	1691505189978139949	CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/demo_apps/shell/shell.c.obj	86b50853caf711e7
+25	621	1691505190020199792	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_shell.c.obj	2278a80a7bfd5463
+494	645	1691505190047413872	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/system_MIMXRT1064.c.obj	a9cbf0d8724b49c6
+400	700	1691505190103691058	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_common.c.obj	fb444c6ce9400aab
+471	747	1691505190150289192	CMakeFiles/shell.elf.dir/app/components/lists/fsl_component_generic_list.c.obj	80767ac37b588816
+435	754	1691505190156864715	CMakeFiles/shell.elf.dir/app/components/uart/fsl_adapter_lpuart.c.obj	daa189388d54dbd3
+527	800	1691505190201932087	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_gpio.c.obj	fd09cc8fd6b20f5c
+623	804	1691505190204358186	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_sbrk.c.obj	d418ffe0749eb5aa
+513	807	1691505190207941669	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/utilities/fsl_assert.c.obj	f1b83f117a6a6764
+418	811	1691505190213470109	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/drivers/fsl_clock.c.obj	dd2035f1d79eef4f
+588	843	1691505190246910830	CMakeFiles/shell.elf.dir/app/boards/evkmimxrt1064/xip/evkmimxrt1064_flexspi_nor_config.c.obj	4dc942968d5e4250
+566	853	1691505190256485904	CMakeFiles/shell.elf.dir/app/devices/MIMXRT1064/xip/fsl_flexspi_nor_boot.c.obj	e5a8a66dd5ff7b8e
+855	1089	1691505190489326263	../flexspi_nor_debug/shell.elf	bf64fed4c1790cca
